@@ -8,3 +8,5 @@ layout: home
 # Mixup
 
 Mixup is a notebook and calculator for pottery glazes.
+
+This is a test
