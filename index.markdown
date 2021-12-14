@@ -4,9 +4,14 @@
 
 layout: home
 ---
-
 # Mixup
+{: .mx-auto }
 
-Mixup is a notebook and calculator for pottery glazes.
+A notebook and calculator for pottery glazes.
+{: .mx-auto }
 
 This is a test
+
+[About mixup](about)
+
+[Link button](http://example.com/){: .btn .btn-green }
