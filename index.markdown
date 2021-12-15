@@ -1,15 +1,16 @@
 ---
 layout: home
+title: Mixup Home
 ---
-# Mixup
-{: .mx-auto }
+## Glaze Chemistry Made Easier
 
-A notebook and calculator for pottery glazes. 
-{: .mx-auto }
+**Mixup** is a Mac program that keeps track of your glazes and materials. 
+It also helps you understand your glazes better by breaking them down into
+the oxides that make up all of the materials potters use. 
 
-This is a testy
-{: .px-6 }
+By looking at glazes in terms of oxides you can:
+- Understand why a glaze might be crazing
+- Formulate a similar glaze with new materials
+- Create new glazes from scratch
 
-[About mixup](about)
-
-[Link button](http://example.com/){: .btn .btn-green }
+[Mixup Documentation](docs){: .btn .btn-green }
