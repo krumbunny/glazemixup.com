@@ -13,4 +13,4 @@ By looking at glazes in terms of oxides you can:
 - Formulate a similar glaze with new materials
 - Create new glazes from scratch
 
-[Mixup Documentation](docs){: .btn .btn-green }
+[Mixup Documentation](docs)
