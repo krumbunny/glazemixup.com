@@ -10,7 +10,7 @@
     "start:tailwind": "tailwindcss -i ./src/site.css -o ./docs/output.css --watch",
     "build": "run-s clean build:eleventy build:tailwind",
     "build:eleventy": "ELEVENTY_PRODUCTION=true eleventy",
-    "build:tailwind": "tailwindcss -i ./src/site.css -o ./docs/output.css",
+    "build:tailwind": "tailwindcss -i ./src/site.css -o ./docs/output.css --minify",
     "clean": "rimraf docs"
   },
   "keywords": [],
