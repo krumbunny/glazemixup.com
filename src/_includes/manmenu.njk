@@ -1,0 +1,26 @@
+<div class="text-sm">
+  <div class="mb-6 flex flex-col items-center">
+    <a href="/"><img src="/images/MixupLogo180.png" alt="Mixup" width='120' height='120'></a>
+    <a class='font-logo ' href="/manual/">Mixup Manual</a>
+  </div>
+
+  <div class="mb-4">
+    <p>Background</p>
+    <ul class="list-disc ml-4">
+      {%- for post in collections.background -%}
+        <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+      {%- endfor -%}
+    </ul>
+  </div>
+  
+  <div class="mb-4">
+    <p>Using Mixup</p>
+    <ul class="list-disc ml-4">
+      {%- for post in collections.using -%}
+        <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+      {%- endfor -%}
+    </ul>
+  </div>
+
+  <a href="/">Mixup Home</a>
+</div>

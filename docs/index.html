@@ -18,35 +18,52 @@
   <link rel="stylesheet" href="/output.css">
 
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@500&family=Rock+Salt&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600&family=Libre+Franklin:ital,wght@0,400;0,700;1,400&family=Rock+Salt&display=swap');
   </style>
 
   
 </head>
 
-<body class="font-sans leading-normal tracking-normal text-gray-900">
-    <div class='flex flex-col items-center bg-slate-500'>
-    <div class='flex flex-row text-white mt-10 mb-6'>
-      <div class='font-serif text-5xl'>Mixup</div>
-      <div class="font-['Baloo_2'] text-2xl ml-10">A notebook and calculator<br/>for pottery glazes.</div>
+<body class="font-body leading-normal tracking-normal text-gray-900">
+  <div class='flex flex-col items-center bg-slate-500'>
+
+    <div class="flex flex-row text-gray-300">
+    <div class="p-4">
+      <a href="/manual">Docs</a>
     </div>
-    <img src='/images/Jade3.png'>
-    <div class="download mb-4"></div>
+    <div class="p-4">
+      About
+    </div>
+    <div class="p-4">
+      Github
+    </div>
   </div>
-  <div class='p-8'>
-    <h2>Glaze Chemistry Made Easier</h2>
-<p><strong>Mixup</strong> is a Mac program that keeps track of your glazes and materials.
+
+
+  <div class='flex flex-row text-white mt-10 mb-6'>
+    <div class='font-logo text-5xl'>Mixup</div>
+    <div class="font-headline text-2xl ml-10">A notebook and calculator<br />for
+      pottery glazes.</div>
+  </div>
+
+  <img src='/images/Jade3.png'>
+  <div class="download mb-6"></div>
+</div>
+
+<article class='prose p-8'>
+  <h2>Glaze Chemistry Made Easier</h2>
+<p><strong>Mixup</strong> is an app for macOS that keeps track of your glazes and materials.
 It also helps you understand your glazes better by breaking them down into
 the oxides that make up all of the materials potters use.</p>
 <p>By looking at glazes in terms of oxides you can:</p>
 <ul>
 <li>Understand why a glaze might be crazing</li>
-<li>Formulate a similar glaze with new materials</li>
+<li>Reformulate a glaze with new materials</li>
 <li>Create new glazes from scratch</li>
 </ul>
-<p><a href="docs">Mixup Documentation</a>{: .btn .btn-green }</p>
+<p><a class="button" href="/manual">Mixup Documentation</a></p>
+<p><a href="manual">Mixup Documentation</a></p>
 
-  </div>
-
+</article>
 </body>
 </html>

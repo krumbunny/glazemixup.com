@@ -3,6 +3,7 @@
     "Baloo",
     "eleventy",
     "glazemixup",
+    "layer",
     "tailwindcss"
   ],
   "css.customData": [".vscode/css_custom_data.json"]

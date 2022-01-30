@@ -4,10 +4,13 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      sans: ['Baloo 2', 'sans-serif'],
-      serif: ['Rock Salt', 'serif'],
+      'logo': ['Rock\\ Salt', 'serif'],
+      'headline': ['Baloo\\ 2', 'cursive'],
+      'body': ['Libre\\ Franklin', 'Helvetica', 'sans-serif'],
     },
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
 }
