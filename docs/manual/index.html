@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Introduction</title>
+  <title>Using Mixup</title>
 
   <meta name="description" content="Mixup is a notebook and chemistry calculator for pottery glazes, created for Apple devices.">
   <meta name="generator" content="11ty">
@@ -11,6 +11,7 @@
   <meta name="subject" content="pottery glaze chemistry">
   <meta name="rating" content="General">
 
+  <link rel="shortcut icon" href="/favicon.ico">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -37,12 +38,12 @@
 
   <div class="mb-4">
     <p>Background</p>
-    <ul class="list-disc ml-4"><li><a href="/manual/background/chemistry/">Glaze Chemistry</a></li><li><a href="/manual/background/oxides/">Oxides</a></li><li><a href="/manual/background/materials/">Materials</a></li></ul>
+    <ul class="list-disc ml-4"><li><a href="/manual/background/chemistry/">Glaze Chemistry</a></li><li><a href="/manual/background/analysis/">Oxide Analysis</a></li><li><a href="/manual/background/oxides/">Oxides</a></li><li><a href="/manual/background/materials/">Materials</a></li></ul>
   </div>
   
   <div class="mb-4">
     <p>Using Mixup</p>
-    <ul class="list-disc ml-4"><li><a href="/manual/using/topwindow/">The Mix List</a></li><li><a href="/manual/using/badge/">The Oxide Badge</a></li><li><a href="/manual/using/viewwindow/">Viewing a Mix</a></li><li><a href="/manual/using/addmix/">Adding a Material</a></li><li><a href="/manual/using/editwindow/">Editing a Mix</a></li></ul>
+    <ul class="list-disc ml-4"><li><a href="/manual/using/tags/">Tags</a></li><li><a href="/manual/using/topwindow/">The Mix List</a></li><li><a href="/manual/using/badge/">The Oxide Badge</a></li><li><a href="/manual/using/viewwindow/">Viewing a Mix</a></li><li><a href="/manual/using/addmix/">Adding a Material</a></li><li><a href="/manual/using/editwindow/">Editing a Mix</a></li></ul>
   </div>
 
   <a href="/">Mixup Home</a>
@@ -51,11 +52,25 @@
   
   <article class='prose pl-12 pt-12'>
     <h1>Organize and Understand Your Glazes</h1>
-<p>Mixup views both materials and glazes as just collections of oxides. Materials tend to be specified in terms of oxides,
-and glazes are collections of materials.
-But you can have materials that are composed of other materials, and you can have glazes that are composed of other glazes
+<p>Mixup keeps track of your glazes and helps you understand them.
+You can use Mixup to catalog the glazes you use and develop new glazes.
+All of your glazes and materials are kept in one list:</p>
+<p><img src="/images/MixList.png" alt="The Mix List"></p>
+<p>Mixup takes a simplified view of glazes and materials:
+everything in Mixup is a <em>mix</em>. A mix is a mixture of other mixes or oxides.
+Every mix has a list of ingredient mixes by weight.
+Glazes are a mix, materials are a mix, glaze blends are a mix, and
+oxides are a simple mix. Oxides are just themselves, a molecule with a weight,
+are they are the building blocks of Mixup. It's mixes all the way down to oxides.</p>
+<p><img src="/images/OneOxide.png" alt="One Oxide"></p>
+<p>Materials are usually specified in terms of oxides, like this analysis of Custer Feldspar:</p>
+<p><img src="/images/Custer.png" alt="One Oxide"></p>
+<p>Glazes are usually collections of materials, like this cone 6 glaze from Digital Fire:</p>
+<p><img src="/images/Cone6Glaze.png" alt="One Oxide"></p>
+<p>But you can have materials that are composed of other materials,
+and you can have glazes that are line blends composed of other glazes
 or are defined in terms of oxides. In the world of Mixup everything is just a mix.</p>
-<p>Mixup's job is to distill any mix into its oxides.</p>
+<p>Mixup's job is to distill any mix into its constituent oxides, which is its analysis.</p>
 
     
     

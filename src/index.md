@@ -15,4 +15,4 @@ By looking at glazes in terms of oxides you can:
 
 <a class="button" href="/manual">Mixup Documentation</a>
 
-[Mixup Documentation](manual)
+[Mixup Documentation](/manual)
