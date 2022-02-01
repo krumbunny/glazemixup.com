@@ -6,11 +6,11 @@ layout: base
 {% endif %}
 
 <div class='flex flex-row'>
-  <div class="w-40 bg-slate-300 p-4" >
+  <div class="w-60 bg-slate-300 p-4" >
     {% include "manmenu.njk" %}
   </div>
   
-  <article class='prose pl-12 pt-12'>
+  <article class='prose p-12 pr-4'>
     {{ content | safe }}
     
     {% if nextPost %}

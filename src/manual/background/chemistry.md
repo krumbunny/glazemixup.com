@@ -6,7 +6,7 @@ date: 2020-01-01
 ---
 ## A Quick Potter's Tour of Glaze Chemistry
 
-Pottery involves a lot of process and transformation, 
+Pottery involves process and transformation, 
 with lots of opportunity for magic to happen or things to go wrong.
 The biggest changes to a pot happen during firing, where high heat changes
 dry clay covered with powdered rock to ceramic encased in a thin layer of glass. 
@@ -26,9 +26,10 @@ nevertheless useful for getting a basic handle on what's going on.
 In a nutshell, for a given glaze, Mixup goes through the ingredients, tallies up 
 what kind oxides are present, and gives you the summary analysis.
 
-The main thing is to learn what role each oxide plays. 
-You could even give them personalities, as in 
-Boring Silica, Stodgy Alumina, Exuberant Soda, Dependable Calcia and so forth.
+The main thing is to learn what [role each oxide plays](/manual/background/oxides). 
+Some oxides like silica and alumina are always present, familiar parts of any glaze.
+There's always some flux oxides, but which ones and how much vary between glazes.
+Other oxides are optional and give a glaze its color and character.
 
 Glaze chemistry is an established field, 
 with books written and college courses developed.

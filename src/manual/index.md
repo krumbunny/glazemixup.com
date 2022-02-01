@@ -17,13 +17,11 @@ Glazes are a mix, materials are a mix, glaze blends are a mix, and
 oxides are a simple mix. Oxides are just themselves, a molecule with a weight,
 are they are the building blocks of Mixup. It's mixes all the way down to oxides. 
 
-![One Oxide](/images/OneOxide.png)
-
 Materials are usually specified in terms of oxides, like this analysis of Custer Feldspar:
 
 ![One Oxide](/images/Custer.png)
 
-Glazes are usually collections of materials, like this cone 6 glaze from Digital Fire:
+Glazes are usually collections of materials, like this [cone 6 glaze](https://digitalfire.com/recipe/g1214w) from Digital Fire:
 
 ![One Oxide](/images/Cone6Glaze.png)
 
@@ -31,4 +29,8 @@ But you can have materials that are composed of other materials,
 and you can have glazes that are line blends composed of other glazes 
 or are defined in terms of oxides. In the world of Mixup everything is just a mix.
 
-Mixup's job is to distill any mix into its constituent oxides, which is its analysis.
+Mixup's job is to distill any mix into an analysis of its constituent oxides.
+
+[Glaze Chemistry](/manual/background/chemistry)
+
+[Using Mixup](/manual/using/topwindow)

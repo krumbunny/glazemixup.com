@@ -881,6 +881,14 @@ a:hover {
           text-decoration-line: underline;
 }
 
+.m-8 {
+  margin: 2rem;
+}
+
+.m-4 {
+  margin: 1rem;
+}
+
 .mt-10 {
   margin-top: 2.5rem;
 }
@@ -901,12 +909,24 @@ a:hover {
   margin-left: 1rem;
 }
 
+.mb-8 {
+  margin-bottom: 2rem;
+}
+
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
 .flex {
   display: flex;
 }
 
 .w-40 {
   width: 10rem;
+}
+
+.w-60 {
+  width: 15rem;
 }
 
 .list-disc {
@@ -943,12 +963,28 @@ a:hover {
   padding: 1rem;
 }
 
+.p-12 {
+  padding: 3rem;
+}
+
 .pl-12 {
   padding-left: 3rem;
 }
 
 .pt-12 {
   padding-top: 3rem;
+}
+
+.pb-12 {
+  padding-bottom: 3rem;
+}
+
+.pr-2 {
+  padding-right: 0.5rem;
+}
+
+.pr-4 {
+  padding-right: 1rem;
 }
 
 .font-body {
