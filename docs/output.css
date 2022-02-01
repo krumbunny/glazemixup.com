@@ -881,10 +881,6 @@ a:hover {
           text-decoration-line: underline;
 }
 
-.m-8 {
-  margin: 2rem;
-}
-
 .m-4 {
   margin: 1rem;
 }
@@ -901,14 +897,6 @@ a:hover {
   margin-left: 2.5rem;
 }
 
-.mb-4 {
-  margin-bottom: 1rem;
-}
-
-.ml-4 {
-  margin-left: 1rem;
-}
-
 .mb-8 {
   margin-bottom: 2rem;
 }
@@ -917,12 +905,20 @@ a:hover {
   margin-top: 0.5rem;
 }
 
-.flex {
-  display: flex;
+.mb-4 {
+  margin-bottom: 1rem;
 }
 
-.w-40 {
-  width: 10rem;
+.ml-4 {
+  margin-left: 1rem;
+}
+
+.mb-96 {
+  margin-bottom: 24rem;
+}
+
+.flex {
+  display: flex;
 }
 
 .w-60 {
@@ -965,22 +961,6 @@ a:hover {
 
 .p-12 {
   padding: 3rem;
-}
-
-.pl-12 {
-  padding-left: 3rem;
-}
-
-.pt-12 {
-  padding-top: 3rem;
-}
-
-.pb-12 {
-  padding-bottom: 3rem;
-}
-
-.pr-2 {
-  padding-right: 0.5rem;
 }
 
 .pr-4 {
