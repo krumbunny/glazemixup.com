@@ -13,6 +13,7 @@ By looking at glazes in terms of oxides you can:
 - Reformulate a glaze with new materials
 - Create new glazes from scratch
 
+
 <a class="button" href="/manual">Mixup Documentation</a>
 
 [Mixup Documentation](/manual)

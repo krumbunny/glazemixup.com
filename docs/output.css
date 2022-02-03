@@ -885,8 +885,8 @@ a:hover {
   margin: 1rem;
 }
 
-.mt-10 {
-  margin-top: 2.5rem;
+.mt-6 {
+  margin-top: 1.5rem;
 }
 
 .mb-6 {
@@ -915,6 +915,10 @@ a:hover {
 
 .mb-96 {
   margin-bottom: 24rem;
+}
+
+.mt-10 {
+  margin-top: 2.5rem;
 }
 
 .flex {
