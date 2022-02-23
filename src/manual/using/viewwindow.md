@@ -2,7 +2,7 @@
 layout: manual
 title: Viewing a Mix
 tags: using
-date: 2020-02-09
+date: 2020-02-10
 ---
 ## Viewing a Mix
 

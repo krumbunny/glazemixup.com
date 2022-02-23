@@ -2,7 +2,7 @@
 layout: manual
 title: Editing a Mix
 tags: using
-date: 2020-02-11
+date: 2020-02-12
 ---
 ## Editing a Mix
 

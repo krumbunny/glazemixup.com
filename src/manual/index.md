@@ -31,5 +31,5 @@ or are defined in terms of oxides. In the world of Mixup everything is a mix.
 
 Mixup's job is to distill any mix into an analysis of its constituent oxides.
 
-- More on [Glaze Chemistry](/manual/background/chemistry)
+- More on [Glaze Chemistry](/manual/background/)
 - More on [Using Mixup](/manual/using/topwindow)
