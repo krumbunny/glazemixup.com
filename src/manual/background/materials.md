@@ -56,3 +56,5 @@ Wollastonite provides calcia and silica.
 *Additives* are many and varied, ranging from metallic oxides like 
 copper oxide used for coloring to CMC gum, an additive that improves how
 a glaze goes on the pot but completely burns off in the kiln. 
+
+Next: [Using Mixup](/manual/using/)
