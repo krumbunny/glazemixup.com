@@ -6,34 +6,46 @@ date: 2020-02-10
 ---
 ## Viewing a Mix
 
-Mixup views both materials and glazes as just collections of oxides. 
-Materials tend to be specified in terms of oxides, 
-and glazes are collections of materials. 
-But in Mixup you can have materials that are composed of other materials, 
-and you can have glazes that are composed of other glazes 
-or are defined in terms of oxides. 
+When a mix is selected from the list Mixup shows a summary of the mix.
+Here you can see what the mix's ingredients are, what its analysis is
+(in table and graphical format), and any notes you've made. 
+You can add to the notes, for example with information on how it looks
+when fired, but you 
+can't change the makeup of the glaze in this view.
 
-In the world of Mixup everything is just a mix. 
-It's mixes all the way down until you reach oxides.
-Mixup's job is to distill any mix into its oxides.
+![Viewing a Mix](/images/ViewLabeled.png)
 
-When you launch Mixup you are presented with a list of mixes:
+1. The ingredients are listed in the approximate order of how you would 
+probably want mix the glaze in your studio, with clays first and additives
+last. Ingredient amounts are always by weight.
 
-![The Mix List](/images/MixList.png)
+2. Tags are used to keep track of mixes. Feel free to liberally use tags
+to mark whether the mix is a glaze, if it is tested, it is in your studio,
+what cone it fires to, atmosphere and so forth.
 
-All of your glazes, materials and even oxides are in this one list. 
-Everything is in one spot.
-The most recently changed mix, whether it's a glaze or material, is on the top.
-Oxides are at the bottom of the list. You can view oxides but you can't change 
-or add oxides. Contact support@glazemixup.com if you need an oxide added and I
-will consider adding it to the next release.
+3. The analysis shows the relative amounts of oxide molecules by molecule 
+count (mols), *not weight*. 
+The first column of numbers is *Unity Molecular Formula*, or UMF.
+The second column is by percentage. The only difference between the
+columns is that UMF scales the numbers so that the flux oxides 
+total to one, or unity.
 
-The buttons on the bottom left import previously saved glazes and export 
-the current list of glazes to a text file.
+4. The Oxide Badge shows the analysis in graphical form. The fluxes are
+displayed in front as a circle, with boron oxide added in the center of
+the flux circle. In back of the flux circle is a rectangle of the remaining oxides,
+with alumina first, then silica, then the rest of the oxides. If the silica to alumina
+ratio is 9:1 then the rectangle will be perfectly square. The dashed 45 deg 
+line lets you see if the rectangle is out of square. A taller rectangle indicates 
+lower silica (high alumina), and wider rectangle indicates higher silica (low alumina).
 
-The Search field at the top searches the title and alias, or subtitle, of the glazes.
-You can also search for tags using the # notation, as is #studio to list all the 
-mixes tagged with "studio".
+5. The icon buttons in the upper left:
+- Create a new version based on this mix
+- Copy a text version of the mix to the clipboard
+- Print
 
-As a shortcut you can click on a tag to search for matching mixes.
+6. Use notes to keep track of how this glaze performs in use. Record your batches 
+here as you mix them and take notes on how the glaze looks 
+when fired.
 
+7. Mix Batch brings up a simple dialog to create a batch of this mix as a 
+multiple of the ingredient weights. You can either print the batch or save it to notes.

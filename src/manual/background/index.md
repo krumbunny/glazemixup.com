@@ -12,7 +12,7 @@ The biggest changes to a pot happen in the kiln, where high heat changes
 dry clay covered with powdered rock to ceramic encased in a thin layer of glass. 
 A pot's change from unfired to fired is dramatic and often unpredictable.
 
-A lot of the changes to a pot while it's in the kiln are chemical.
+A lot of the changes to a pot are chemical.
 In particular what happens when the raw glaze melts is largely driven by 
 what kinds of atoms are part of the glaze. 
 For example if there's too much silica the glaze might not melt, or
@@ -28,8 +28,8 @@ nevertheless useful for getting a basic handle on what's going on.
 In a nutshell, for a given glaze, Mixup goes through the ingredients, tallies up 
 what kind oxides are present, and gives you the summary analysis.
 
-The main thing is to learn what [role each oxide plays](/manual/background/oxides). 
-Some oxides like silica and alumina are always present, familiar parts of any glaze.
+The main thing to learn is what [role each oxide plays](/manual/background/oxides). 
+Some oxides like silica and alumina are always present and are familiar parts of any glaze.
 There's always some flux oxides, but which fluxes and how much flux varies between glazes.
 Other oxides are optional and give a glaze its color and character.
 

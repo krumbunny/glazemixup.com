@@ -34,6 +34,6 @@ Features:
 - Your data is backed up and syncs to all your Macs via iCloud
 - Animation! Dark mode! Eutectics!
 
-Download now and give Mixup a spin.
+[Download now](https://apps.apple.com/us/app/glaze-mixup/id1608421786) and give Mixup a spin.
 
 <a class="button" href="/manual">Mixup Documentation</a>

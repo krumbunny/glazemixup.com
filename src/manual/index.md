@@ -6,15 +6,15 @@ layout: manual
 
 Mixup keeps track of your glazes and helps you understand them. 
 You can use Mixup to catalog the glazes you use and develop new glazes. 
+Mixup takes a simplified approach to the world of glaze chemistry.
 All of your glazes and materials are kept in one list:
 
 ![The Mix List](/images/MixList.png)
 
-Mixup takes a simplified view of glazes and materials:
-everything in Mixup is a *mix*. A mix is a mixture of other mixes or oxides. 
+Everything in Mixup is a *mix*. A mix is a mixture of other mixes or oxides. 
 Every mix has a list of ingredient mixes by weight.
 So glazes are a mix, materials are a mix and glaze blends are a mix. 
-Oxides are just themselves, a molecule with a weight,
+Oxides are a special kind of mix - they are just themselves, a molecule with a weight,
 are they are the building blocks of Mixup. It's mixes all the way down to oxides. 
 
 Materials are usually specified in terms of oxides, like this analysis of Custer Feldspar:

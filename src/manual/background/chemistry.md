@@ -6,15 +6,16 @@ date: 2020-01-05
 ---
 ### Glaze Chemistry: The Really Brief Version 
 
-Most glazes are slurries of crushed rocks and water. You dip your pot in, 
+Most glazes are slurries of crushed minerals and water. You dip your pot in, 
 it soaks up some slurry, the water dries and 
 you are left with powder on the outside of the pot.
 
 When you fire your pot and the kiln is at temperature the powdered glaze 
-on the outside melts and becomes a thick liquid. 
+on the outside melts.
+Some of the powder compounds burn off, but most of it becomes a thick liquid. 
 In that hot liquid the molecules that were bound up in various rocky crystals 
 and other materials are 
-freed to roam around and interact with other molecules. It's molecule soup. 
+freed to roam around and interact with other molecules. It's a molecule soup. 
 
 When the kiln is turned off and the pot cools the molten liquid freezes - that's the glaze. 
 Sometimes the glaze freezes relatively quickly and the molecules are caught off guard, 
