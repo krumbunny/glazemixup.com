@@ -38,7 +38,7 @@ The buttons on the bottom left import previously saved glazes and export
 the current list of glazes to a text file. The plus button in the center creates 
 a new mix.
 
-I have tested Mixup with several thousand mixes in the list.
+Mixup has been tested with several thousand mixes in the list.
 
 ![Global Toolbar](/images/GlobalToolbar.png)
 
@@ -50,6 +50,6 @@ the mixes you view. "New Mix" creates a new mix.
 
 The overview graph show the mixes that have some silica and alumina in them. 
 The line shows a ratio of 1:9 alumina to silica, 
-which beginning at around 2.0 mols of silica is where transparent glazes are found.
+which beginning at around 2.0 mols of silica is where most transparent glazes are found.
 You can click on a dot to see the glaze it represents.
 

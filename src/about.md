@@ -31,8 +31,9 @@ so it may not be what you're looking for. The above programs are more
 comprehensive and have more flexibility.
 There are lots of options when it comes to glaze chemistry,
 different strategies,
-different ways of presenting things, 
-and I didn't want to clutter Mixup with lots of bells and whistles. 
+different ways of presenting things.
+Every option is a little more work and creates a little more confusion, and
+I didn't want to clutter Mixup with lots of bells and whistles. 
 Mixup embodies the way I think of glazes.
 Maybe it will be your program too.
 

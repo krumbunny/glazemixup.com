@@ -19,6 +19,10 @@ and together they are an oxide.
 These oxides are the main characters in glaze chemistry. 
 They are the building blocks of glazes.
 
+<a href="/images/PeriodicOxides.png">
+<img src="/images/PeriodicOxides.png" alt="Periodic Table of Oxides">
+</a>
+
 Elements like to pair up with oxygen in different ratios. 
 Some prefer two atoms to one oxygen, like Soda (Na2O) and Potash (K2O).
 Others pair one to one, like Calcia (CaO) and Magnesia (MgO). 
@@ -26,7 +30,7 @@ A ratio of two to three is how Alumina (Al2O3), Boron (B2O3)
 and Iron (Fe2O3) like to pair. 
 Silica and Titania pair up at one to two (SiO2 and TiO2).
 
-Broadly speaking, oxides can be grouped according to how they pair with oxygen. 
+Often oxides can be grouped according to how they pair with oxygen. 
 So for example the 2:1 oxides, like Soda (Na2O) and Potash (K2O), have similarities.
 They are strong fluxes that also expand and contract a lot.
 
@@ -64,7 +68,7 @@ maybe an additive for color, and voila, you have a glaze!
 
 ### Oxide Roles
 
-Most glazes are around 50%-80% silica. Silica is the backbone of any glaze.
+Most glazes are over half silica. Silica is the backbone of any glaze.
 
 Alumina stiffens up a glaze. Transparent glazes often have a silica to 
 alumina ratio of about 9:1. Too much silica and the glaze might not melt, 

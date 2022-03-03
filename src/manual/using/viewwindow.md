@@ -47,5 +47,5 @@ lower silica (high alumina), and wider rectangle indicates higher silica (low al
 here as you mix them and take notes on how the glaze looks 
 when fired.
 
-7. Mix Batch brings up a simple dialog to create a batch of this mix as a 
+7. *Mix Batch* brings up a simple dialog to create a batch of this mix as a 
 multiple of the ingredient weights. You can either print the batch or save it to notes.
