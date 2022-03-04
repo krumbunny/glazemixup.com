@@ -81,7 +81,7 @@ They also expand a lot when heated, causing crazing when the glaze cools.
 Lithia is also in this group of Alkaline Fluxes, the fluxes that have
 a 2:1 element to oxygen ratio.
 
-Calcia, Magnesia, Baria and Strontia are all Alkaline Earth Fluxes. 
+Calcia, Magnesia, Baria and Strontia are the Alkaline Earth Fluxes. 
 These fluxes have a 1:1 oxygen ratio.
 They may not be quite as strong as the Alkaline Fluxes but they also expand
 less. An excess of any of these fluxes will create a matte glaze.

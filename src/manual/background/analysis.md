@@ -21,7 +21,7 @@ After entering it into Mixup you see:
 
 The analysis tallies up the oxides and tells you the inside story. 
 The first thing to note is the "(mol)", which indicates that this
-analysis is in terms of molecules, or moles, and not by weight. 
+analysis is in terms of molecules, or mols, and not by weight. 
 Some molecules are heavier than others, but a heavy molecule isn't
 necessarily more active or important than a light one. It makes more sense to
 look at the glaze in terms of molecule count, not by how much they weigh.
@@ -49,6 +49,6 @@ Without boron to help things melt though this is probably a high temperature gla
 even though silica is 2.45, which isn't much compared to other high temperature glazes. 
 
 Both columns show the same relative amounts, so in that sense they are the same. 
-The first column scales the moles so that the fluxes sum to 1.
-The second column scales the moles so the grand total is 100%. 
+The first column scales the mols so that the fluxes sum to 1.
+The second column scales the mols so the grand total is 100%. 
 Same counts of molecules, but different scales. 
