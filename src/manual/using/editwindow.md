@@ -32,7 +32,8 @@ You can add an ingredient and it's weight at the same time.
 Mixup shows the closest match next to the return symbol, or you can press 
 "Search" to search the current database plus Digital Fire or Glazy. 
 For example. typing "Cust 20" shows the match "Custer Feldspar: 20",
-and typing Enter will add that to the ingredient list.
+and typing Enter will add that to the ingredient list. 
+See [adding an ingredient](/manual/using/addmix) for details.
 
 5. Analysis shows the mix's analysis next to the reference mix analysis.
 The reference mix is by default the original value of the mix from when

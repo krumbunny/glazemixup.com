@@ -35,6 +35,14 @@ Some oxides like silica and alumina are always present and are familiar parts of
 There's always some flux oxides, but which fluxes and how much flux varies between glazes.
 Other oxides are optional and give a glaze its color and character.
 
+It is also important to keep in mind that glaze chemistry is a very approximate tool.
+It can show you which direction to change a glaze, or a starting point to
+substitute a material, but it has limited accuracy. 
+One of the main limitations is the published analyses of the materials. 
+A published analysis is often only accurate to a percent or so, and
+materials often change over time. This is why Mixup only shows you a
+couple of digits of a given number - any more only 
+
 Glaze chemistry is an established field, 
 with many books written and college courses developed.
 Some online resources include:
