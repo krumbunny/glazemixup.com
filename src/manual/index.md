@@ -4,11 +4,15 @@ layout: manual
 ---
 # Organize and Understand Your Glazes
 
-Mixup keeps track of your glazes and helps you understand them. 
-You can use Mixup to catalog the glazes you use and develop new glazes. 
-Mixup takes a simplified approach to the world of glaze chemistry.
+*Mixup* keeps track of your glazes and helps you understand them. 
+You can use *Mixup* to catalog the glazes you use, fix problems and develop new glazes. 
 
 ![Mixup](/images/Sherril.png)
+
+*Mixup* takes a simplified approach to the world of glaze chemistry, showing your
+glazes and materials in a single list. Tables of numbers are unavoidable when it
+comes to glaze chemistry, but *Mixup* tries to minimize clutter where it can and
+portray some values graphically instead of just numerically.
 
 Glaze chemistry is a well developed field.
 There a many programs for managing and analyzing glazes, 
@@ -26,8 +30,8 @@ comprehensive and have more flexibility.
 There are lots of options when it comes to glaze chemistry, 
 different approaches and
 different ways of presenting
-things, and I didn't want to clutter Mixup with lots of bells and whistles. 
-Mixup embodies the way I think of glazes.
+things, and I didn't want to clutter *Mixup* with lots of bells and whistles. 
+*Mixup* embodies the way I think of glazes.
 Maybe it will be your program too.
 
 - More on [Glaze Chemistry](/manual/background/)

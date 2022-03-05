@@ -7,7 +7,9 @@ date: 2020-02-12
 ## Editing a Mix
 
 Edit mode lets you change the mix's description and ingredients. 
-Any changes you make are immediately remembered, you don't need to "save".
+Any changes you make are immediately remembered.
+
+The parts of the Edit window are:
 
 ![Editing a Mix](/images/EditLabeled.png)
 
@@ -20,20 +22,20 @@ To remove a tag tap on the existing tag and then tap on the "x".
 
 3. The *Ingredients List* lets you change the weight of an ingredient in a mix. 
 You can also use the arrows to increment the ingredient amount. 
-To delete and ingredient tap on the ingredient name and then tap on the red "-" symbol.
+To delete an ingredient tap on the ingredient name and then tap on the red "⊖" symbol.
 To get out of delete mode tap the ingredient name a second time.
 Tap on the Total amount to retotal the weights. Options are
     - *Scale*: Adjust the weights by a multiple that makes the total closest to 100.
-    - *100*: Adjust the weights to whole numbers to total to 100.
-    - *100.0*: Adjust the weights to one decimal place to total to 100.
+    - *100*: Adjust the weights to whole numbers that total to 100.
+    - *100.0*: Adjust the weights to one decimal place that total to 100.
 
 4. To add an ingredient start typing in the "Add" field. 
 You can add an ingredient and it's weight at the same time.
-Mixup shows the closest match next to the return symbol, or you can press 
+*Mixup* shows the closest match next to the return symbol, or you can press 
 "Search" to search the current database plus Digital Fire or Glazy. 
 For example. typing "Cust 20" shows the match "Custer Feldspar: 20",
 and typing Enter will add that to the ingredient list. 
-See [adding an ingredient](/manual/using/addmix) for details.
+See [adding an ingredient](/manual/using/addmix) for more details.
 
 5. Analysis shows the mix's analysis next to the reference mix analysis.
 The reference mix is by default the original value of the mix from when
@@ -54,7 +56,7 @@ You can toggle between Unity (aka UMF) amounts and percentage amounts.
     ingredients. For example, if the calcia and magnesia in a glaze were only
     supplied by Dolomite then it's hard to increase one without the other, 
     because Dolomite bundles both in one ingredient. 
-    If you added whiting (just calcia) to the ingredients then it would work.
+    If you then added whiting (just calcia) to the ingredients then it would work.
 
     - To try and match the reference oxides tap on any reference oxide, 
     which brings up a popup to target the reference:

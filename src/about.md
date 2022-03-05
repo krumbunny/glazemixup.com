@@ -33,8 +33,8 @@ There are lots of options when it comes to glaze chemistry,
 different strategies,
 different ways of presenting things.
 Every option is a little more work and creates a little more confusion, and
-I didn't want to clutter Mixup with lots of bells and whistles. 
-Mixup embodies the way I think of glazes.
+I didn't want to clutter *Mixup* with lots of bells and whistles. 
+*Mixup* embodies the way I think of glazes.
 Maybe it will be your program too.
 
 Email me: ken (at) chinpurcell (dot) org

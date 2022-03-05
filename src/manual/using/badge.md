@@ -6,16 +6,16 @@ date: 2020-02-14
 ---
 ## The Oxide Badge
 
-The *oxide badge* is an original feature of Mixup. 
+The *Oxide Badge* is an original feature of *Mixup*. 
 It was developed to give a quick impression of the oxides that make up a glaze.
 
-The oxide badge shows a mix's oxides in graphical form. 
-Consider the following analysis and oxide badge:
+The Oxide Badge shows a mix's oxides in graphical form. 
+Consider the following analysis and Oxide Badge:
 
 ![Oxide Badge 1](/images/badge1.png)
 
 The badge shows in graphical form the same numbers as are in the analysis. 
-The area of a flux on the badge corresponds to the unity value.
+The area of any oxide on the badge corresponds to its relative value.
 The badge has two parts:
 - The *Flux Circle*
 - The *Non-flux Field*

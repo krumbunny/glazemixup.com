@@ -95,7 +95,7 @@ expansion. It combines with oxygen at the same ratio as silica, 2:3.
 Other oxides like Titania, Iron Oxide, and various metals (Copper, Cobalt) are used 
 to change the color and surface of a glaze.
 
-There is a special oxide in Mixup that isn't an oxide at all: LOI. 
+There is a special oxide in *Mixup* that isn't an oxide at all: LOI. 
 LOI stands for Lost On Ignition, and it's a stand in for
 the stuff in a material that burns up in the kiln. It has an oxide weight of zero. 
 Carbon for example won't survive a kiln firing, so calcium carbonate (whiting) leaves

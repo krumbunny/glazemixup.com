@@ -6,12 +6,15 @@ date: 2020-02-10
 ---
 ## Viewing a Mix
 
-When a mix is selected from the list Mixup shows a summary of the mix.
+When a mix is selected from the list *Mixup* shows a summary of the mix.
 Here you can see what the mix's ingredients are, what its analysis is
 (in table and graphical format), and any notes you've made. 
 You can add to the notes, for example with information on how it looks
 when fired, but you 
-can't change the makeup of the glaze in this view.
+can't change the makeup of the glaze in this view. To change the mix you
+need to tap *Edit*.
+
+Here are the parts of the mix view:
 
 ![Viewing a Mix](/images/ViewLabeled.png)
 
@@ -23,8 +26,8 @@ last. Ingredient amounts are always by weight.
 to mark whether the mix is a glaze, if it is tested, it is in your studio,
 what cone it fires to, atmosphere and so forth.
 
-3. The analysis shows the relative amounts of oxide molecules by molecule 
-count (mols), *not weight*. 
+3. The analysis shows the relative amounts of oxide molecules by *molecule 
+count* (mols), not weight. 
 The first column of numbers is *Unity Molecular Formula*, or UMF.
 The second column is by percentage. The only difference between the
 columns is that UMF scales the numbers so that the flux oxides 

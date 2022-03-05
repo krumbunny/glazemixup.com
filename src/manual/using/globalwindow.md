@@ -9,15 +9,15 @@ date: 2020-02-05
 Mixup views both materials and glazes as just collections of oxides. 
 Materials tend to be specified in terms of oxides, 
 and glazes are usually collections of materials. 
-But in Mixup you can have materials that are composed of other materials, 
+But in *Mixup* you can have materials that are composed of other materials, 
 and you can have glazes that are composed of other glazes 
 or are defined in terms of oxides. 
 
-In the world of Mixup everything is just a mix. 
+In the world of *Mixup* everything is just a mix. 
 It's mixes all the way down until you reach oxides.
-Mixup's job is to distill any mix into its oxides.
+*Mixup*'s job is to distill any mix into its oxides.
 
-When you launch Mixup you are presented with a list of mixes:
+When you launch *Mixup* you are presented with a list of mixes:
 
 ![The Mix List](/images/MixList.png)
 

@@ -15,16 +15,16 @@ Suppose you see a faded glaze recipe scrawled on an old studio wall, "Leach 1234
 
 And you think "Hmmmm, what might this ancient glaze recipe be good for?"
 
-After entering it into Mixup you see:
+After entering it into *Mixup* you see:
 
 ![Leach 1234 Analysis](/images/Leach1.png)
 
 The analysis tallies up the oxides and tells you the inside story. 
 The first thing to note is the "(mol)", which indicates that this
-analysis is in terms of molecules, or mols, and not by weight. 
+analysis is in terms of molecule count, or mols, and not by weight. 
 Some molecules are heavier than others, but a heavy molecule isn't
 necessarily more active or important than a light one. It makes more sense to
-look at the glaze in terms of molecule count, not by how much they weigh.
+look at oxides in terms of molecule count, not by how much they weigh.
 
 There are two ways to present the molecule tally: Percent and Unity.
 The second column is percent and is easy enough to understand. 
