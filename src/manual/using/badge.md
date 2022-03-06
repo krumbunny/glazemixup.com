@@ -17,10 +17,10 @@ Consider the following analysis and Oxide Badge:
 The badge shows in graphical form the same numbers as are in the analysis. 
 The area of any oxide on the badge corresponds to its relative value.
 The badge has two parts:
-- The *Flux Circle*
-- The *Non-flux Field*
+- The *flux circle*
+- The *non-flux field*
 
-The **Flux Circle** contains all of the fluxes in the glaze, *with the addition of boron oxide in the center*. 
+The **flux circle** contains all of the fluxes in the glaze, *with the addition of boron oxide in the center*. 
 The fluxes are grouped as:
 
 - Alkali Fluxes: Li2O, Na2O, K2O
@@ -31,8 +31,8 @@ In a unity analysis the fluxes total to one, so the flux circle shows the flux o
 adding up to one complete circle. 
 You can see in the example above that the similarly colored alkali fluxes are about a quarter of the total fluxes.
 
-**The Flux Circle should be viewed as being in front of the Non-flux Field**. 
-Aside from boron oxide the Flux Circle is proportionally one in size. 
+**The flux circle should be viewed as being in front of the non-flux field**. 
+Aside from boron oxide the flux circle is proportionally one in size. 
 In the above case the unity value of silica is 3.25, and the 
 silica rectangle behind the flux circle is 3.25 times the size of the fluxes in the flux circle. 
 Since the value of boron is 0.15 the total proportional area of the flux circle is 1.15.
@@ -43,17 +43,17 @@ oxides in a circle.
 
 Oxides can have more than one role in a glaze, and that is especially true of boron oxide. 
 Boron is both a glass former and lowers the melting temperature of a glaze. 
-Most potters think of it having the role of a flux, so it is included in the Flux Circle.
+Most potters think of it having the role of a flux, so it is included in the flux circle.
 
 For simplicity the oxygen part of the oxide is not displayed.
 
 The dashed diagonal line represents a 9:1 proportion of silica to alumina.
-If the Non-flux Field is wider that the diagonal the glaze has a higher
+If the non-flux field is wider that the diagonal the glaze has a higher
 silica to alumina ratio, or in other words is has surplus silica, as in this glaze:
 
 ![Excess Silica](/images/ExcessSilica.png)
 
-If the Non-flux Field is narrower than the diagonal then the glaze is relatively short of silica:
+If the non-flux field is narrower than the diagonal then the glaze is relatively short of silica:
 
 ![Short Silica](/images/ShortSilica.png)
 
@@ -63,6 +63,8 @@ Like all things in glaze chemistry you should take the 9:1 ratio as only a
 very rough guideline.
 
 Non-flux oxides aside from alumina and silica are displayed on the right side of the
-Non-flux Field. For example, this glaze has a lot of iron:
+non-flux field. For example, this glaze has a lot of iron:
 
 ![Extra Oxide](/images/ExtraOxide.png)
+
+More details on the Oxide Badge can be found in [this white paper](https://docs.google.com/document/d/1w7uTy1cby0zSWYjYfdR-x8WvoPeB6r0moP2YLoksZGM/view).
